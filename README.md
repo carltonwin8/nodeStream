@@ -1,6 +1,9 @@
 # nodeStream
 Streaming from ffmpeg to HTML5 canvas.
 
+## cj note
+This streaming code worked for me on 2017/06/16. The video lag was 5 seconds.
+
 ## Setup in 3 steps
 
 1. Set up ffmpeg and make a test stream, for example using the webcam:
